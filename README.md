@@ -1,5 +1,2 @@
-# To-do
-
-📖 theoretical study
-
-🎵 Cultural studies
+# TIL
+* TO Do List
