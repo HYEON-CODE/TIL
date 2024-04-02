@@ -1,3 +1,6 @@
+# size 변수를 사용하는 방법과 len함수를 사용하는 방식을 비교해봤다.
+# size 변수 사용 시 메모리는 70664KB 시간은 1068ms이고,
+# len 함수 사용 시 메모리는 70600KB 시간은 1092이다. 큰 차이가 없으니 len 함수를 사용하는 게 낫겠다.
 from collections import deque
 import sys
 
